@@ -27,13 +27,11 @@
 
 Can be found on Telegram as [@TianaRobot](https://t.me/TIANA_PRINCE_BOT)
 
-## Deployment
-First Step!
 
-Star ⭐ the repository!!
-It really motivates me to continue this project further
 
-Read [Docs](http://www.prince-botz.tk/2022/02/tiana-bot.html?m=1) for Detailed Description and Setup Guide on deploying Bot.
+urther
+
+a-bot.html?m=1) for Detailed Description and Setup Guide on deploying Bot.
 
 > Click on buttons to expand!
 <details>
